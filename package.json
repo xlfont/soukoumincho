@@ -1,0 +1,10 @@
+{
+  "name": "@xlfont/soukoumincho",
+  "version": "1.0.0",
+  "description": "",
+  "author": "",
+  "license": "OFL",
+  "devDependencies": {
+    "@xlfont/load": "^1.0.10"
+  }
+}

@@ -1,0 +1,11 @@
+- name: SoukouMincho
+  displayname: 裝甲明朝
+  category: serif
+  subsets:
+   - cjk
+   - latin
+  style:
+    normal:
+      - filename: dist/SoukouMincho
+        weight: 400
+        xfl: true
